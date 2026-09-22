@@ -1,0 +1,10 @@
+{
+  "name": "Zonyx+ Pocket Robot",
+  "description": "Control panel, physical hardware pairing bridge, AI companion chatbot, and interactive 3D CAD inspector for Zonyx+, an ESP32-powered pocket robot made by Jovan K Rajiv, Rayan Ilah, and Rayan Najeeb.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
